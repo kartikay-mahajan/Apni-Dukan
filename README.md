@@ -13,11 +13,11 @@ Concepts Implemented:-
 Here are the glimpses of the UI of the app:-
 
 <h4>Login activity</h4>
-<img src = "images/login_activity.jpeg.jpeg" height = 200 width = 100/>
+<img src = "images/login_activity.jpeg" height = 200 width = 100/>
 <br><br>
 
 <h4>Dashboard Fragment</h4>
-<img src = "images/dashboard_fragment.jpeg.jpeg" height = 200 width = 100/>
+<img src = "images/dashboard_fragment.jpeg" height = 200 width = 100/>
 <br><br>
 
 <h4>cart activity</h4>
