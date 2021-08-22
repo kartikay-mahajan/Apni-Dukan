@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847952073865",
+    "project_id": "shopify-749aa",
+    "storage_bucket": "shopify-749aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847952073865:android:c841f6a98c0202afd62258",
+        "android_client_info": {
+          "package_name": "com.kartikaymahajan.shopify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847952073865-t8n0afteu9lk3mlv93ede5gia6gqcarl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartikaymahajan.shopify",
+            "certificate_hash": "00f06e7affb72a318cb831e86a9d0d91a7159139"
+          }
+        },
+        {
+          "client_id": "847952073865-g5rm7ilm2nn4i99kibbjd8uun6j5s2nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBClVStVOZetEmUeBcoNmTcO8ijTzWORP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847952073865-g5rm7ilm2nn4i99kibbjd8uun6j5s2nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
